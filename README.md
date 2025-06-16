@@ -5,8 +5,7 @@ The initial version of the Backbone Baltic model (1.5v) can be found at https://
 
 The model was calibrated to reflect 2020 data; the calibration process described in the article: K. Baltputnis, D. Žalostiba, J. Teremranova, P. Pazāns and Z. Broka, "Refinement and Calibration of Optimization Models for Baltic Region Energy System Development," 2024 IEEE 65th International Scientific Conference on Power and Electrical Engineering of Riga Technical University (RTUCON), Riga, Latvia, 2024, pp. 1-6, doi: 10.1109/RTUCON62997.2024.10830801 and the dataset related to the article is published on https://zenodo.org/uploads/14013185.
 
-The model input data contains the following files in 'data' data: InputData_Baltic_2020system.xlsx, InputData_Baltic_2020buildings.xlsx, InputData_Baltic_2020transport.xlsx.
-The following files were updated: 2020.inc and other_data.inc in 'backbone_input' folder; run_2020.cmd
+The model input data contains the following updated files in 'data' data: InputData_Baltic_2020system.xlsx, InputData_Baltic_2020buildings.xlsx, InputData_Baltic_2020transport.xlsx; as well as changes were made in 2020.inc and other_data.inc in 'backbone_input' folder, run_2020.cmd
 
 
 
